@@ -10,4 +10,4 @@ Add collision detection.
 Keep score.
 Add rules button with slider.
 
-Heres a link to access the application: 
+Heres a link to access the application: https://techiemokhele.github.io/breakout-web-app/
